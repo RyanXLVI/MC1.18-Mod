@@ -1,0 +1,9 @@
+{
+  "block.modtut.mysterious_ore_deepslate": "Deepslate Mysterious Ore",
+  "block.modtut.mysterious_ore_end": "End Mysterious Ore",
+  "block.modtut.mysterious_ore_nether": "Nether Mysterious Ore",
+  "block.modtut.mysterious_ore_overworld": "Mysterious Ore",
+  "item.modtut.mysterious_ingot": "Mysterious Ingot",
+  "item.modtut.raw_mysterious_chunk": "Mysterious Raw Chunk",
+  "itemGroup.modtut": "Tutorial"
+}

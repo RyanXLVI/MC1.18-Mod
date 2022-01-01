@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "modtut:mysterious_ore_overworld",
+    "modtut:mysterious_ore_deepslate",
+    "modtut:mysterious_ore_end",
+    "modtut:mysterious_ore_nether"
+  ]
+}

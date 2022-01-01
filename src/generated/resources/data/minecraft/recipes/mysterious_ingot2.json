@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "modtut:raw_mysterious_chunk"
+  },
+  "result": "modtut:mysterious_ingot",
+  "experience": 0.0,
+  "cookingtime": 100
+}
